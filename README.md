@@ -18,7 +18,11 @@ Identification of a message as ‘ham’ or ‘spam’ is a classification task 
   .Lemmatizing Words
   
 3.Feature extraction
+
 4.Stop words removing
+
 5.Get frequency distribution of features
+
 6.Building a model for prediction
+
 7.Smoothing
